@@ -1,0 +1,70 @@
+.space30 {
+    height: 30px;
+}
+
+.space90 {
+    height: 90px;
+}
+
+.btn_rajout {
+    text-align: center;
+    cursor: pointer;
+    border: 1px solid blue;
+    color: white;
+    background-color: blue;
+}
+
+.btn_rajout1 {
+    text-align: center;
+    cursor: pointer;
+    border: 1px solid blue;
+    color: white;
+    background-color: blue;
+}
+
+.btn_retirer {
+    text-align: center;
+    cursor: pointer;
+    border: 1px solid red;
+    color: white;
+    background-color: red;
+}
+
+.btn_retirer1 {
+    text-align: center;
+    cursor: pointer;
+    border: 1px solid red;
+    color: white;
+    background-color: red;
+}
+
+.title {
+    text-align: center;
+    font-style: italic;
+    color: blue;
+}
+
+.bigtitle {
+    text-decoration: underline;
+}
+
+.button-envoi {
+    text-align: center;
+}
+
+
+/******* contact ***********************/
+
+#footer {
+    height: 200px;
+}
+
+.ft {
+    width: 100%;
+    text-align: center;
+    padding: 50px;
+}
+
+.item {
+    overflow: auto;
+}
